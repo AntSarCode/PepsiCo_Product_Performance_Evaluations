@@ -1,0 +1,224 @@
+Product_Name,Year_Launched,Status,Region_Served,Category,Ownership,Product_Age_2021,Is_Active
+Pepsi,1893,Active,Worldwide,Cola,PepsiCo,128,True
+Mountain Dew,1940,Active,Worldwide,Citrus Soda,PepsiCo,81,True
+Lay's,1932,Active,Worldwide,Snack,Frito-Lay (PepsiCo),89,True
+Doritos,1964,Active,Worldwide,Snack,Frito-Lay (PepsiCo),57,True
+Tropicana,1947,Active,Worldwide,Beverages,Tropicana (PepsiCo),74,True
+Gatorade,1965,Active,Worldwide,Sports Drink,PepsiCo,56,True
+Quaker Oats,1877,Active,Worldwide,Food,PepsiCo,144,True
+7UP,1929,Active,Worldwide,Lemon-Lime Soda,PepsiCo,92,True
+Cheetos,1948,Active,Worldwide,Snack,Frito-Lay (PepsiCo),73,True
+Ruffles,1958,Active,Worldwide,Snack,Frito-Lay (PepsiCo),63,True
+Mirinda,1959,Active,Worldwide,Fruit Flavored,PepsiCo,62,True
+Aquafina,1994,Active,Worldwide,Bottled Water,PepsiCo,27,True
+Brisk,1991,Active,Worldwide,Iced Tea,PepsiCo,30,True
+Lipton (Ready-to-Drink),1991,Active,Worldwide,Iced Tea,PepsiCo (partnership),30,True
+Rice-A-Roni,1958,Active,North America,Food,PepsiCo,63,True
+Near East,1962,Active,North America,Food,PepsiCo,59,True
+Matador Beef Jerky,2006,Active,North America,Snack,PepsiCo,15,True
+Sabra,1986,Active,North America,Food,PepsiCo (partial),35,True
+Naked Juice,1983,Active,North America,Beverages,PepsiCo (partial),38,True
+Izze,2002,Active,North America,Beverages,PepsiCo,19,True
+Propel,2000,Active,North America,Water,PepsiCo,21,True
+Grandma's Cookies,1914,Active,North America,Snack,PepsiCo,107,True
+Oven Baked,1990,Active,North America,Snack,Frito-Lay (PepsiCo),31,True
+SunChips,1991,Active,North America,Snack,Frito-Lay (PepsiCo),30,True
+Smartfood,1985,Active,North America,Snack,Frito-Lay (PepsiCo),36,True
+Funyuns,1969,Active,North America,Snack,Frito-Lay (PepsiCo),52,True
+Stacy's Pita Chips,1997,Active,North America,Snack,PepsiCo (partial),24,True
+Rold Gold,1917,Active,North America,Snack,PepsiCo (partial),104,True
+Fritos,1932,Active,North America,Snack,Frito-Lay (PepsiCo),89,True
+Walkers,1948,Active,United Kingdom,Snack,PepsiCo (partial),73,True
+Smith's,1931,Active,Australia,Snack,PepsiCo (partial),90,True
+Twisties,1951,Active,Australia,Snack,PepsiCo (partial),70,True
+Matutano,1964,Active,Spain,Snack,PepsiCo (partial),57,True
+Gamesa,1921,Active,Mexico,Snack,PepsiCo (partial),100,True
+Karinto,1963,Active,Japan,Snack,PepsiCo (partial),58,True
+Alvalle,1997,Active,Spain,Beverages,PepsiCo (partial),24,True
+Kero Coco,1993,Active,France,Beverages,PepsiCo (partial),28,True
+Looza,1947,Active,Belgium,Beverages,PepsiCo (partial),74,True
+Copella,1969,Active,United Kingdom,Beverages,PepsiCo (partial),52,True
+H2OH!,2002,Active,Brazil,Water,PepsiCo (partial),19,True
+Manzanita Sol,1982,Active,Mexico,Apple Soda,PepsiCo (partial),39,True
+Squamscot,1863,Active,United States (New Hampshire),Craft Soda,PepsiCo (partial),158,True
+Mug Root Beer,1940,Active,North America,Root Beer,PepsiCo,81,True
+Crush,1911,Active,North America,Fruit Flavored,PepsiCo,110,True
+Manzanita Sol,1982,Active,United States (California),Apple Soda,PepsiCo (partial),39,True
+Pepsi Max,1993,Active,Worldwide,Cola,PepsiCo,28,True
+Sierra Mist,1999,Discontinued,North America,Lemon-Lime Soda,PepsiCo,22,False
+Slice,1984,Discontinued,North America,Fruit Flavored,PepsiCo,37,False
+Mug Cream Soda,1986,Active,North America,Cream Soda,PepsiCo,35,True
+SoBe,1996,Active,North America,Beverages,PepsiCo,25,True
+Propel Fitness Water,2000,Discontinued,North America,Water,PepsiCo,21,False
+AMP Energy,2001,Active,North America,Energy Drink,PepsiCo,20,True
+Bubly,2018,Active,North America,Sparkling Water,PepsiCo,3,True
+Lifewtr,2017,Active,North America,Bottled Water,PepsiCo,4,True
+Rockstar Energy Drink,2001,Active,North America,Energy Drink,PepsiCo,20,True
+Dole,2018,Active,North America,Juices,PepsiCo,3,True
+Izze Fusions,2017,Discontinued,North America,Sparkling Juice,PepsiCo,4,False
+Sabritones,1966,Active,Mexico,Snack,Sabritas (PepsiCo),55,True
+Sabritas,1943,Active,Mexico,Snack,PepsiCo,78,True
+Gamesa Arcoiris,1973,Active,Mexico,Cookies,Sabritas (PepsiCo),48,True
+Tostitos,1981,Active,North America,Snack,Frito-Lay (PepsiCo),40,True
+Miss Vickie's,1987,Active,North America,Snack,Frito-Lay (PepsiCo),34,True
+Chee-tos (Japan),1980,Active,Japan,Snack,PepsiCo (partial),41,True
+Walkers Sensations,2002,Active,United Kingdom,Snack,PepsiCo (partial),19,True
+Red Rock Deli,2004,Active,Australia,Snack,PepsiCo (partial),17,True
+Smith's Twisties,1951,Active,Australia,Snack,PepsiCo (partial),70,True
+Doritos (Japan),1986,Active,Japan,Snack,PepsiCo (partial),35,True
+Simba,1957,Active,South Africa,Snack,PepsiCo (partial),64,True
+Elma Chips,1962,Active,Brazil,Snack,PepsiCo (partial),59,True
+Cheetos (Japan),1983,Active,Japan,Snack,PepsiCo (partial),38,True
+Lay's Stax,2003,Active,Worldwide,Snack,Frito-Lay (PepsiCo),18,True
+Sunbites,2010,Active,Australia,Snack,PepsiCo (partial),11,True
+Matador,1957,Active,Europe,Snack,PepsiCo (partial),64,True
+Red Rock Deli,2010,Active,Europe,Snack,PepsiCo (partial),11,True
+Bugles,1966,Active,North America,Snack,General Mills (PepsiCo),55,True
+Smartfood Popcorn,1985,Active,North America,Snack,Frito-Lay (PepsiCo),36,True
+Ruffles (Japan),1996,Active,Japan,Snack,PepsiCo (partial),25,True
+Ruffles Max,2020,Active,North America,Snack,Frito-Lay (PepsiCo),1,True
+Ruffles Max Smokehouse BBQ,2021,Active,North America,Snack,Frito-Lay (PepsiCo),0,True
+Doritos Dinamita,1999,Active,North America,Snack,Frito-Lay (PepsiCo),22,True
+Sunbites,2008,Active,United Kingdom,Snack,PepsiCo (partial),13,True
+Lay's Mix,2015,Active,North America,Snack,Frito-Lay (PepsiCo),6,True
+Miss Vickie's Kettle Cooked,1987,Active,North America,Snack,Frito-Lay (PepsiCo),34,True
+Tostitos Rolls,2009,Active,North America,Snack,Frito-Lay (PepsiCo),12,True
+Ruffles Deep Ridged,2013,Active,North America,Snack,Frito-Lay (PepsiCo),8,True
+Munchos,1932,Active,North America,Snack,Frito-Lay (PepsiCo),89,True
+Funyuns Onion Flavored,1969,Active,North America,Snack,Frito-Lay (PepsiCo),52,True
+Smartfood White Cheddar,1985,Active,North America,Snack,Frito-Lay (PepsiCo),36,True
+Matador Spicy Beef Jerky,2006,Active,North America,Snack,PepsiCo,15,True
+Krunchers! Kettle Cooked,2002,Active,North America,Snack,Utz Quality Foods (PepsiCo),19,True
+Walkers Bugles,1966,Active,United Kingdom,Snack,PepsiCo (partial),55,True
+Walkers Max,2005,Active,United Kingdom,Snack,PepsiCo (partial),16,True
+Wotsits,1978,Active,United Kingdom,Snack,PepsiCo (partial),43,True
+Doritos Collisions,2008,Discontinued,North America,Snack,Frito-Lay (PepsiCo),13,False
+Doritos Late Night,2008,Discontinued,North America,Snack,Frito-Lay (PepsiCo),13,False
+Lay's Wavy,1994,Active,North America,Snack,Frito-Lay (PepsiCo),27,True
+Lay's Light,1998,Discontinued,North America,Snack,Frito-Lay (PepsiCo),23,False
+Lay's Poppables,2017,Active,North America,Snack,Frito-Lay (PepsiCo),4,True
+Lay's Stax Salt & Vinegar,2003,Active,North America,Snack,Frito-Lay (PepsiCo),18,True
+Lay's Stax Sour Cream & Onion,2003,Active,North America,Snack,Frito-Lay (PepsiCo),18,True
+Lay's Stax Flamin' Hot,2003,Active,North America,Snack,Frito-Lay (PepsiCo),18,True
+Lay's Stax Cheddar,2003,Active,North America,Snack,Frito-Lay (PepsiCo),18,True
+Lay's Kettle Cooked,1981,Active,North America,Snack,Frito-Lay (PepsiCo),40,True
+Ruffles Double Crunch,2010,Discontinued,North America,Snack,Frito-Lay (PepsiCo),11,False
+Munchos Flavored,1932,Discontinued,North America,Snack,Frito-Lay (PepsiCo),89,False
+Tostitos Cantina,2015,Discontinued,North America,Snack,Frito-Lay (PepsiCo),6,False
+Baken-ets Pork Skins,1958,Active,North America,Snack,Frito-Lay (PepsiCo),63,True
+Doritos Jacked,2012,Discontinued,North America,Snack,Frito-Lay (PepsiCo),9,False
+Miss Vickie's Smokehouse BBQ,2008,Discontinued,North America,Snack,Frito-Lay (PepsiCo),13,False
+Miss Vickie's Sea Salt & Vinegar,1987,Active,North America,Snack,Frito-Lay (PepsiCo),34,True
+Miss Vickie's Jalapeno,1987,Active,North America,Snack,Frito-Lay (PepsiCo),34,True
+Simply,2008,Active,North America,Beverages,Tropicana (PepsiCo),13,True
+Naked Smoothies,1983,Active,North America,Beverages,PepsiCo (partial),38,True
+SodaStream Pepsi,2015,Active,North America,Beverages,PepsiCo (partnership),6,True
+Lemon Lemon,2017,Active,North America,Sparkling Lemonade,PepsiCo,4,True
+H2OH!,2002,Active,Brazil,Water,PepsiCo (partial),19,True
+Cheetos Baked,2005,Active,North America,Snack,Frito-Lay (PepsiCo),16,True
+Cheetos Puffs,1971,Active,North America,Snack,Frito-Lay (PepsiCo),50,True
+Cheetos Fantastix,2006,Active,North America,Snack,Frito-Lay (PepsiCo),15,True
+Cheetos Mix-Ups,2010,Discontinued,North America,Snack,Frito-Lay (PepsiCo),11,False
+Rold Gold Pretzels,1917,Active,North America,Snack,PepsiCo (partial),104,True
+Rold Gold Rods,1998,Active,North America,Snack,PepsiCo (partial),23,True
+Rold Gold Thins,2008,Active,North America,Snack,PepsiCo (partial),13,True
+Oven Baked Lay's,2006,Active,North America,Snack,Frito-Lay (PepsiCo),15,True
+Grandma Utz's Kettle Cooked,2001,Active,North America,Snack,Utz Quality Foods (PepsiCo),20,True
+Fritos Flavor Twists,1992,Active,North America,Snack,Frito-Lay (PepsiCo),29,True
+Fritos Mild Cheddar Dip,2002,Active,North America,Snack,Frito-Lay (PepsiCo),19,True
+Fritos Bean Dip,2002,Active,North America,Snack,Frito-Lay (PepsiCo),19,True
+Tropicana Probiotics,2018,Active,North America,Beverages,Tropicana (PepsiCo),3,True
+G2,2008,Active,North America,Sports Drink,PepsiCo,13,True
+Tazo,1999,Active,North America,Beverages,PepsiCo (partial),22,True
+Starbucks Bottled Frappuccino,1996,Active,North America,Coffee,PepsiCo (partnership),25,True
+Starbucks Discoveries,2006,Discontinued,North America,Coffee,PepsiCo (partnership),15,False
+Brisk Fusion Iced Tea,2017,Active,North America,Iced Tea,PepsiCo,4,True
+Brisk Mate,2016,Active,North America,Iced Tea,PepsiCo,5,True
+Lipton Iced Tea,1991,Active,North America,Iced Tea,PepsiCo (partnership),30,True
+Lipton PureLeaf,2011,Active,North America,Iced Tea,PepsiCo (partnership),10,True
+Tropicana Twister,1985,Active,North America,Fruit Flavored,Tropicana (PepsiCo),36,True
+SoBe Elixir,2005,Active,North America,Beverages,PepsiCo,16,True
+SoBe Life Water,2011,Discontinued,North America,Water,PepsiCo,10,False
+SoBe Pure Rush,2008,Discontinued,North America,Energy Drink,PepsiCo,13,False
+Lipton Brisk+,2020,Active,North America,Iced Tea,PepsiCo (partnership),1,True
+Aquafina Alive,2009,Discontinued,North America,Flavored Water,PepsiCo,12,False
+Tropicana Essentials,2009,Discontinued,North America,Fruit Juices,Tropicana (PepsiCo),12,False
+No Fear Energy,2005,Discontinued,North America,Energy Drink,PepsiCo,16,False
+Manzanita Sol Tamarindo,2020,Active,Mexico,Apple Soda,PepsiCo (partial),1,True
+Manzanita Sol Piña,2020,Active,Mexico,Apple Soda,PepsiCo (partial),1,True
+Manzanita Sol Uva,2020,Active,Mexico,Apple Soda,PepsiCo (partial),1,True
+H2OH! Limoneto,2021,Active,Brazil,Water,PepsiCo (partial),0,True
+Kero Coco Piña,2021,Active,France,Beverages,PepsiCo (partial),0,True
+Looza Ace,2021,Active,Belgium,Beverages,PepsiCo (partial),0,True
+Looza Strawberry Banana,2021,Active,Belgium,Beverages,PepsiCo (partial),0,True
+Copella Apple & Elderflower,2021,Active,United Kingdom,Beverages,PepsiCo (partial),0,True
+Gatorade Zero,2018,Active,North America,Sports Drink,PepsiCo,3,True
+Gatorade Endurance,2004,Active,North America,Sports Drink,PepsiCo,17,True
+Gatorade Fierce,2010,Discontinued,North America,Sports Drink,PepsiCo,11,False
+Gatorade Rain,2006,Discontinued,North America,Sports Drink,PepsiCo,15,False
+Gatorade Tiger,2008,Discontinued,North America,Sports Drink,PepsiCo (partnership),13,False
+H2Go,2001,Discontinued,North America,Water,PepsiCo,20,False
+Ice Cucumber Pepsi,2007,Discontinued,Japan,Cola,PepsiCo (partial),14,False
+Kickstart,2013,Active,North America,Energy Drink,PepsiCo,8,True
+Ocean Spray Cran-Energy,2003,Discontinued,North America,Energy Drink,PepsiCo (partnership),18,False
+Ocean Spray PACt,2014,Discontinued,North America,Water,PepsiCo (partnership),7,False
+Ocean Spray Pact Cranberry,2014,Discontinued,North America,Fruit Juice,PepsiCo (partnership),7,False
+Ocean Spray Sparkling,2013,Discontinued,North America,Sparkling Juice,PepsiCo (partnership),8,False
+Gatorade Propel,2000,Active,North America,Water,PepsiCo,21,True
+Starbucks Doubleshot,2002,Active,North America,Coffee,PepsiCo (partnership),19,True
+Starbucks Discoveries,2006,Discontinued,North America,Coffee,PepsiCo (partnership),15,False
+Tazo Tea,1999,Active,North America,Beverages,PepsiCo (partial),22,True
+Ocean Spray PACt Cranberry,2014,Discontinued,North America,Fruit Juice,PepsiCo (partnership),7,False
+Bubly Sparkling Water,2018,Active,North America,Sparkling Water,PepsiCo,3,True
+Aquafina Sparkling,2016,Discontinued,North America,Sparkling Water,PepsiCo,5,False
+Rockstar Energy Drink,2001,Active,North America,Energy Drink,PepsiCo,20,True
+Dole Juice,2018,Active,North America,Juices,PepsiCo,3,True
+Manzanita Sol Piña,2020,Active,Mexico,Apple Soda,PepsiCo (partial),1,True
+Miss Vickie's Sea Salt & Vinegar,1987,Active,North America,Snack,Frito-Lay (PepsiCo),34,True
+Naked Smoothies,1983,Active,North America,Beverages,PepsiCo (partial),38,True
+Sabritas Salt & Lime,1999,Active,Mexico,Snack,PepsiCo (partial),22,True
+Stacy's Pita Chips,1997,Active,North America,Snack,PepsiCo (partial),24,True
+Sabra Hummus,1986,Active,North America,Food,PepsiCo (partial),35,True
+Matador Spicy Beef Jerky,2006,Active,North America,Snack,PepsiCo,15,True
+Grandma Utz's Kettle Cooked,2001,Active,North America,Snack,Utz Quality Foods (PepsiCo),20,True
+Lay's Kettle Cooked,1981,Active,North America,Snack,Frito-Lay (PepsiCo),40,True
+Smartfood White Cheddar,1985,Active,North America,Snack,Frito-Lay (PepsiCo),36,True
+Ruffles Deep Ridged,2013,Active,North America,Snack,Frito-Lay (PepsiCo),8,True
+Munchos,1932,Active,North America,Snack,Frito-Lay (PepsiCo),89,True
+Aquafina Alive,2009,Discontinued,North America,Flavored Water,PepsiCo,12,False
+Naked Juice,1983,Active,North America,Beverages,PepsiCo (partial),38,True
+Cheetos Baked,2005,Active,North America,Snack,Frito-Lay (PepsiCo),16,True
+SoBe Elixir,2005,Active,North America,Beverages,PepsiCo,16,True
+Looza Ace,2021,Active,Belgium,Beverages,PepsiCo (partial),0,True
+Rold Gold Pretzels,1917,Active,North America,Snack,PepsiCo (partial),104,True
+No Fear Energy,2005,Discontinued,North America,Energy Drink,PepsiCo,16,False
+Fritos Flavor Twists,1992,Active,North America,Snack,Frito-Lay (PepsiCo),29,True
+Gatorade Zero,2018,Active,North America,Sports Drink,PepsiCo,3,True
+Lemon Lemon,2017,Active,North America,Sparkling Lemonade,PepsiCo,4,True
+Cheetos Puffs,1971,Active,North America,Snack,Frito-Lay (PepsiCo),50,True
+Tropicana Twister,1985,Active,North America,Fruit Flavored,Tropicana (PepsiCo),36,True
+Naked Protein Juice,2012,Active,North America,Beverages,PepsiCo (partial),9,True
+Gatorade Frost,2005,Discontinued,North America,Sports Drink,PepsiCo,16,False
+Cracker Jack,1896,Active,North America,Snack,Frito-Lay (PepsiCo),125,True
+Stacy's Pita Thins,2006,Active,North America,Snack,PepsiCo (partial),15,True
+Lay's Stax Salt & Vinegar,2003,Active,North America,Snack,Frito-Lay (PepsiCo),18,True
+Ruffles All Dressed,1997,Active,Canada,Snack,Frito-Lay (PepsiCo),24,True
+Tropicana Essentials,2009,Discontinued,North America,Fruit Juices,Tropicana (PepsiCo),12,False
+Starbucks Bottled Frappuccino,1996,Active,North America,Coffee,PepsiCo (partnership),25,True
+Aquafina Flavorsplash,2011,Discontinued,North America,Flavored Water,PepsiCo,10,False
+Miss Vickie's Jalapeno,1987,Active,North America,Snack,Frito-Lay (PepsiCo),34,True
+Izze Sparkling Juice,2002,Active,North America,Beverages,PepsiCo,19,True
+Sabra Salsa,2005,Active,North America,Food,PepsiCo (partial),16,True
+Naked Coconut Water,2010,Active,North America,Beverages,PepsiCo (partial),11,True
+Gatorade Fierce,2010,Discontinued,North America,Sports Drink,PepsiCo,11,False
+Gatorade Tiger,2008,Discontinued,North America,Sports Drink,PepsiCo (partnership),13,False
+Aquafina Alive,2009,Discontinued,North America,Flavored Water,PepsiCo,12,False
+Ruffles Queso,2010,Active,Mexico,Snack,PepsiCo (partial),11,True
+Sabra Guacamole,1986,Active,North America,Food,PepsiCo (partial),35,True
+Sabra Greek Yogurt Dip,2013,Active,North America,Food,PepsiCo (partial),8,True
+Naked Well Being,2011,Discontinued,North America,Beverages,PepsiCo (partial),10,False
+Gatorade G2 Perform,2009,Discontinued,North America,Sports Drink,PepsiCo,12,False
+Gatorade AM,2004,Discontinued,North America,Sports Drink,PepsiCo,17,False
+Gatorade X-Factor,2010,Discontinued,North America,Sports Drink,PepsiCo,11,False
+Tropicana Coco Blends,2016,Discontinued,North America,Coconut Water,Tropicana (PepsiCo),5,False
+Starbucks Iced Coffee,1994,Active,North America,Coffee,PepsiCo (partnership),27,True
