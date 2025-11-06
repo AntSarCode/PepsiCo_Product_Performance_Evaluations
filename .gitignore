@@ -19,7 +19,6 @@ Thumbs.db
 
 # Ignore only untracked binaries (raw input, working copies)
 data/raw/
-data/processed/
 
 # Ignore temporary exports
 reports/dashboard_summary_temp.pdf
