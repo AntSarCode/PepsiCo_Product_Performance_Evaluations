@@ -1,0 +1,24 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor & environment folders
+.vscode/
+.idea/
+.venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore only untracked binaries (raw input, working copies)
+data/raw/
+
+# Ignore temporary exports
+reports/dashboard_summary_temp.pdf
